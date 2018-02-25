@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KabeoNet Business Card</string>
+    <string name="business_name">KabeoNet Krystyna Borecka</string>
+    <string name="address">ul. Armii Krajowej 1\n49-345 Skorogoszcz</string>
+    <string name="phone">695 446 268</string>
+    <string name="email">poczta@kabeonet.pl</string>
+    <string name="NIP">NIP:  747 128 26 80</string>
+    <string name="website"><a href="https://www.kabeonet.pl/">www.kabeonet.pl</a></string>
+</resources>
+
+
+

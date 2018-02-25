@@ -1,0 +1,26 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customized theme -->
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="colorPrimary">#f8b205</item>
+        <item name="colorPrimaryDark">#f97a09</item>
+        <item name="colorAccent">#fff</item>
+    </style>
+
+    <style name="BusinessName">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="InfoTextView">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+</resources>

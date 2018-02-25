@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">20dp</dimen>
+    <dimen name="padding">20dp</dimen>
+    <dimen name="margin_bottom_business_name">20dp</dimen>
+    <dimen name="margin_left_info">15dp</dimen>
+    <dimen name="margin_bottom_info">15dp</dimen>
+    <dimen name="margin_left_text">10dp</dimen>
+</resources>
